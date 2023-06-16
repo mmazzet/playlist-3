@@ -1,0 +1,9 @@
+{
+  "file": "./models/playlists.json",
+  "playlists": [
+    {
+      "title": "The very best of Bossa Nova",
+      "_id": "5193d3ca-7876-4668-b855-b3f6fbb845b7"
+    }
+  ]
+}

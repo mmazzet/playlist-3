@@ -1,0 +1,12 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "Bossa Nova 1",
+      "artist": "me",
+      "duration": 5,
+      "_id": "02ce5d43-41f3-4ab5-a935-a2e631b28e95",
+      "playlistid": "5193d3ca-7876-4668-b855-b3f6fbb845b7"
+    }
+  ]
+}
